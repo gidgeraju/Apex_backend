@@ -1,0 +1,33 @@
+[
+  {
+    "pokemonOwnerName": "raju",
+    "pokemons": [
+      {
+        "id": "0dec7b26-b15f-4ba6-85ad-4a98f6e0a2d6",
+        "pokemonOwnerName": "raju",
+        "direction": "left",
+        "initialPositionX": "5",
+        "initialPositionY": "4",
+        "pokemonName": "rattata",
+        "pokemonAbility": "run-away",
+        "speed": "20"
+      },
+      {
+        "pokemonName": "pidgey",
+        "pokemonAbility": "keen-eye",
+        "initialPositionX": 0,
+        "initialPositionY": 0,
+        "speed": 10,
+        "direction": "north"
+      },
+      {
+        "pokemonName": "pidgey",
+        "pokemonAbility": "keen-eye",
+        "initialPositionX": 0,
+        "initialPositionY": 0,
+        "speed": 10,
+        "direction": "north"
+      }
+    ]
+  }
+]
